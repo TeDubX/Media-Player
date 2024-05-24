@@ -1,0 +1,34 @@
+h1 {
+    font-size: xx-large;
+    font-family: 'Times New Roman';
+}
+
+h2 {
+    font-size: x-large;
+    font-family: 'Times New Roman';
+}
+
+h3 {
+    font-family: cursive;
+    font-size: x-large;
+}
+
+h4 {
+    font-size: x-large;
+    font-family: cursive;
+}
+
+h5 {
+    font-size: x-large;
+    font-family: 'Times New Roman';
+}
+
+p {
+    font-size: large;
+    font-family: cursive;
+}
+
+body {
+    background-color: rgb(236, 214, 246);
+    color: rgb(41, 1, 69);
+}

@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Times New Roman';
+}
+
+h2{
+    font-family: cursive;
+}
+
+h3{
+    font-family: 'Times New Roman';
+}
+
+body{
+    background-color: rgb(176, 229, 205);
+    color: rgb(2, 42, 20);
+}
